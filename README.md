@@ -33,5 +33,7 @@ Please make an effort to help grow Homebrew by adding these formula's/casks and 
 - [ ] Pull https://http.kali.org/dists/kali-rolling/main/source/Sources.gz
 - [ ] Create a cask converting linux to brew requirements as stated on (https://docs.brew.sh/Formula-Cookbook)
 - [ ] Create an app with dropdown listing tools per category
-
+- [X] Netcat formula is based on the old 2004 version rather then it's updated 2018 version
+- [ ] Valgrind has a AMD64/MacOS architecture but homebrew is linked as a linux dependency causing installation problems
+- [ ] Wifispoof currently has a mismatch with the sha256 sum
 
