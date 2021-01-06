@@ -14,7 +14,7 @@ This install is generally worth taking a long coffee break ;)
 
 ## Install
     brew update && brew upgrade
-    curl -LJO https://raw.githubusercontent.com/stevenhiltrop/pentesting/master/MacOS/kali_tools.txt
+    curl -LJO https://raw.githubusercontent.com/stevenhiltrop/homebrew-sec-tools/main/kali_tools.txt
     brew install $(cat kali_tools.txt)
 ## Post installation
     brew install --cask wireshark
