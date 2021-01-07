@@ -34,4 +34,4 @@ Please make an effort to help grow Homebrew by adding these formula's/casks and 
 - [X] Netcat formula is based on the old 2004 version rather then it's updated 2018 version (https://github.com/Homebrew/homebrew-core/pull/68330)
 - [ ] Valgrind has a AMD64/MacOS architecture but homebrew is linked as a linux dependency causing installation problems
 - [ ] Wifispoof currently has a mismatch with the sha256 sum
-
+- [ ] Burp-suite cask seems to hang on download
